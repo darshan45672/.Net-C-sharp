@@ -1,0 +1,15 @@
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.AssemblyInfoInputs.cache
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.AssemblyInfo.cs
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.csproj.CoreCompileInputs.cache
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.sourcelink.json
+D:\Github\.Net-C-sharp\program 12\bin\Debug\net8.0\program 12.exe
+D:\Github\.Net-C-sharp\program 12\bin\Debug\net8.0\program 12.deps.json
+D:\Github\.Net-C-sharp\program 12\bin\Debug\net8.0\program 12.runtimeconfig.json
+D:\Github\.Net-C-sharp\program 12\bin\Debug\net8.0\program 12.dll
+D:\Github\.Net-C-sharp\program 12\bin\Debug\net8.0\program 12.pdb
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.dll
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\refint\program 12.dll
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.pdb
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\program 12.genruntimeconfig.cache
+D:\Github\.Net-C-sharp\program 12\obj\Debug\net8.0\ref\program 12.dll
