@@ -1,0 +1,15 @@
+D:\Github\.Net-C-sharp\program 6\bin\Debug\net8.0\program 6.exe
+D:\Github\.Net-C-sharp\program 6\bin\Debug\net8.0\program 6.deps.json
+D:\Github\.Net-C-sharp\program 6\bin\Debug\net8.0\program 6.runtimeconfig.json
+D:\Github\.Net-C-sharp\program 6\bin\Debug\net8.0\program 6.dll
+D:\Github\.Net-C-sharp\program 6\bin\Debug\net8.0\program 6.pdb
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.AssemblyInfoInputs.cache
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.AssemblyInfo.cs
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.csproj.CoreCompileInputs.cache
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.sourcelink.json
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.dll
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\refint\program 6.dll
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.pdb
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\program 6.genruntimeconfig.cache
+D:\Github\.Net-C-sharp\program 6\obj\Debug\net8.0\ref\program 6.dll
