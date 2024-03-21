@@ -1,0 +1,15 @@
+D:\Github\.Net-C-sharp\program 2\bin\Debug\net8.0\program 2.exe
+D:\Github\.Net-C-sharp\program 2\bin\Debug\net8.0\program 2.deps.json
+D:\Github\.Net-C-sharp\program 2\bin\Debug\net8.0\program 2.runtimeconfig.json
+D:\Github\.Net-C-sharp\program 2\bin\Debug\net8.0\program 2.dll
+D:\Github\.Net-C-sharp\program 2\bin\Debug\net8.0\program 2.pdb
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.AssemblyInfoInputs.cache
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.AssemblyInfo.cs
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.csproj.CoreCompileInputs.cache
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.sourcelink.json
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.dll
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\refint\program 2.dll
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.pdb
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\program 2.genruntimeconfig.cache
+D:\Github\.Net-C-sharp\program 2\obj\Debug\net8.0\ref\program 2.dll
